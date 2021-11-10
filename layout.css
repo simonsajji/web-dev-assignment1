@@ -1,0 +1,103 @@
+.b{
+    margin:0;
+    padding:0;
+}
+
+#Article{
+    padding:20;
+    display:inline;
+    background-color:rgb(36, 36, 36);
+    
+}
+
+#im{
+    margin-right: 10px;
+}
+
+#heading{
+    display:block;
+    text-align:center;
+    margin:none;
+    padding:0;
+    width:100%;
+    background-image: url('old-grunge-newspaper-paper-textured-background-blurred-vintage-newspapers-texture-background-blur-unreadable-aged-news-horizontal-page-with-place-fo-2CGK7P2.jpg');
+    font-size :50px;
+    opacity:0.9;
+    color:rgb(48, 45, 45);
+}
+/* To give no border and no margin to h3 tag  */
+#h{
+    
+border: 0;margin-top:0;padding:30px;margin-bottom: 0px;
+font-family:'Courier New', Courier, monospace;
+}
+#navigation{
+    word-spacing: 80px;
+    text-align: center;
+    padding: 10px;
+    margin:0;
+    background-color:rgb(206, 166, 139);   
+
+    font-size: 20px;
+}
+
+
+.a{
+    text-decoration: none;
+    color:rgb(75, 49, 49);
+    float:center;
+    font-weight:bold;
+    font-family: Courier;
+    word-spacing: 50px;
+
+}
+#section{
+    float:left;
+    display:inline;
+    background-image: url('template.jpg');
+   
+
+}
+#title_flood{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    opacity:0.8;
+    color:rgb(94, 22, 22);
+}
+#aside{
+    float:center;
+    width:100%;
+
+    
+
+}
+
+
+#asi{
+    background-color:rgb(36, 36, 36);
+}
+#footer{
+
+    background-color:rgb(29, 26, 26);
+    margin:0;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    width:100%;
+    text-align: center;
+    word-spacing: 90px;
+   
+}
+#footerh4{
+    text-align: center;
+    word-spacing: 0px;
+   
+    opacity:0.7;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:0;
+    padding:20;
+    color:rgb(248, 229, 229);
+    display:block;
+
+    margin:0;padding: 0%;
+}
+
